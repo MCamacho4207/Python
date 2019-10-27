@@ -1,0 +1,1 @@
+This project sought to analyse two different implementation's of Dijkstra's Shortest Path algorithm. The two implementations are identical except for a small change where one implementation terminates when the list of nodes contain the argument node. 
